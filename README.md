@@ -11,5 +11,5 @@ HW-3 => In the third homework(HW-3), the program takes your name via input and p
         
 Project => In the project, firstly the program creates a student object named by my name by default, of course you can change the name by editing the code bunch later, then asks              you your name and surname. You have just 3 attempts to enter incorrect name and surname. The program will end unless you enter the name and surname correctly. After you 
            enter your name correctly, the program wants you to enter at least 3 and at most 5 courses. Then, you have to select one of the courses that you enter for exam. Just 
-           entering the ordinal of the course will be enough. After that, it asks your midterm, final and project grades to calculate your total grade. Consequently it returns 
+           entering the ordinal of the course will be enough. After that, it asks your midterm, final and project grades to calculate your total grade. Finally, it returns 
            your total grade and letter grade and tells you whether you pass the class.
